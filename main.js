@@ -1,1 +1,1 @@
-document.write("Hwllo world");
+document.write("ФИО: Василечко Анастасия Сергеевна<br>Возраст: 16 лет<br>Хобби: танцы, чтение<br>Учебное заведение: IT STEP COLLEGE");
